@@ -1,3 +1,4 @@
+
 import org.junit.*;
 
 public class MovieRentalTest extends junit.framework.TestCase {
