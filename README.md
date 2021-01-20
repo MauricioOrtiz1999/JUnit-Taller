@@ -9,3 +9,6 @@ Prueba dek rest de la clase moviemetatest
 
 Prueba de test @Test de los ultimos metodos de la clase CustomerTest
 ![image](https://user-images.githubusercontent.com/73259091/105111634-45a20000-5a8f-11eb-81d7-9fe63034df04.png)
+
+Prueba de test @Test en clase clase VideoGameRental
+![VideoGameRentalTest](https://user-images.githubusercontent.com/68168827/105112532-3fad1e80-5a91-11eb-802c-afa65d01fd00.png)
