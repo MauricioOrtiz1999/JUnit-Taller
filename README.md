@@ -15,3 +15,6 @@ Prueba de test @Test en clase clase VideoGameRental
 
 Prueba de test @Test en clase Movie
 ![WhatsApp Image 2021-01-19 at 8 04 32 PM](https://user-images.githubusercontent.com/73213899/105113139-5e5fe500-5a92-11eb-9833-e6159a3fc6e2.jpeg)
+
+Prueba de test @Test de los ultimos metodos de la clase MovierentalTest
+![image](https://user-images.githubusercontent.com/73259091/105122106-94f22b80-5aa3-11eb-9796-44f88a67ba9b.png)
